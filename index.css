@@ -1,6 +1,4 @@
-body{
-background-color: black;
-}
+
 #clockContainer{
     margin: auto;
     height: 40vw;
@@ -35,4 +33,5 @@ background-color: black;
     width: 0.3vw;
     top: 6vw;
     left: 49.9vw;
+
 }
